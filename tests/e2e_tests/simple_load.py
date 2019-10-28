@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python3
 """
 A simple e2e test. It
     1) creates 100 files
